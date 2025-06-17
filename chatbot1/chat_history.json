@@ -1,0 +1,36 @@
+[
+  {
+    "role": "user",
+    "content": "who are you?"
+  },
+  {
+    "id": "__fake_id__",
+    "content": [
+      {
+        "annotations": [],
+        "text": "I am a large language model, trained by Google.  I'm a helpful and informative AI assistant, able to communicate and generate human-like text in response to a wide range of prompts and questions.  I don't have personal experiences, feelings, or a physical body. My purpose is to assist users with information and complete tasks as instructed.\n",
+        "type": "output_text"
+      }
+    ],
+    "role": "assistant",
+    "status": "completed",
+    "type": "message"
+  },
+  {
+    "role": "user",
+    "content": "what LLM?\n\n"
+  },
+  {
+    "id": "__fake_id__",
+    "content": [
+      {
+        "annotations": [],
+        "text": "I'm currently running on the Pathways Language Model.\n",
+        "type": "output_text"
+      }
+    ],
+    "role": "assistant",
+    "status": "completed",
+    "type": "message"
+  }
+]
